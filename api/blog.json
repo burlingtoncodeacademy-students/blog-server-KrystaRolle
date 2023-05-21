@@ -1,0 +1,27 @@
+ {
+    "posts": [
+    {
+        "post_id": 1,
+        "title": "First Blog Post",
+        "author": "Paul Niemczyk",
+        "body": "These student devs keep getting younger and smarter"
+    },
+    {
+        "post_id": 2,
+        "title": "Second Blog Post",
+        "author": "Alice A.",
+        "body": "These student devs keep getting younger and smarter"
+    }, {
+        "post_id": 3,
+        "title": "Third Blog Post",
+        "author": "Paula P.",
+        "body": "These student devs keep getting younger and smarter"
+    }, {
+        "post_id": 4,
+        "title": "Fourth Blog Post",
+        "author": "N. Book",
+        "body": "These student devs keep getting younger and smarter"
+    }
+]
+}
+
